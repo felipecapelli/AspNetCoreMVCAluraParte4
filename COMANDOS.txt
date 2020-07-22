@@ -1,0 +1,39 @@
+1-Entrar na pasta da solução e criar o diretório que o IdentityServer vai ficar;
+2-Entrar nessa nova pasta criada;
+3-Instalar os templates do IdentityServer com o comando:
+	dotnet new -i identityserver4.templates
+4-Verificar quais foram os templates gerados e copiar o código referente ao: IdentityServer4 with ASP.NET Core Identity (no caso: is4aspid):
+	dotnet new is4aspid
+5- Se perguntar "Seeds the initial user database - Deseja executar esta ação?"
+	Y
+//--------------------------------------------------------------
+Endereço para acessar os valores de configuração do IdentityServer:
+localhost.5000/.well-known/openid-configuration
+
+//--------------------------------------------------------------
+A chave para a encriptação é gerada por: builder.AddDeveloperSigningCredential (na classe StartUp)
+Esse comando gera essa chave, que fica no arquivo: tempkey.rsa
+Essa chave será usada para encriptar o token enviado
+
+//--------------------------------------------------------------
+Para acessar os cabeçalhos durate uma requisição que está debugando:
+Abrir a janela "Immediate Window" com: Ctrl + Alt + i
+Digitar: Request.headers
+
+//--------------------------------------------------------------
+ATIVIDEADE EXTRA  - INCLUSÃO DE CLIENTE NO IDENTITYSERVER4
+1-Copiar a classe LoginInputModel - Criando a classe RegisterInputModel (adicionando o atributo Email);
+2-Copiar a classe LoginViewModel - Criando a classe RegisterViewModel;
+3-Editar a classe AccountController:
+	Copiando o método: BuildLoginViewModelAsync(string returnUrl), criando o método BuildRegisterModelAsync(string returnUrl) (mudando a assinatura e os dois returns);
+	Copiando o método: BuildLoginViewModelAsync(LoginInputModel model), criando o método BuildRegisterModelAsync(RegisterInputModel model) (mudando a assinatura e a primeira linha);
+4-Criar os métodos Register (conforme consta no código);
+5-Copiar arquivo Login.cshtml e criar o arquivo Register.cshtml (Adicionar o campo email no form e mudar o botão de login para registrar);
+6-Adicionar o link para ir para a página de cadastro no após o formulario Login.cshtml;
+7-Passar o email como uma claim:
+	no Arquivo Config.cs incluir o codigo no construtor: new IdentityResources.Email();
+	nesse mesmo arquivo, modificar, na criação do cliente, a linha que inclui o email no escopo: AllowedScopes = { "openid", "profile", "email", "CasaDoCodigo.Relatorio" };
+	Adicionar no PedidoController (no projeto MVC) a linha a seguir, no método Cadastro: pedido.Cadastro.Email = User.FindFirst("email")?.Value;
+	Por fim, modificar a Startup.Cs do projeto MVC para incluir o email no escopo: options.Scope.Add("email");
+
+

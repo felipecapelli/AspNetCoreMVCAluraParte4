@@ -1,0 +1,127 @@
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.deps.json
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.runtimeconfig.json
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.runtimeconfig.dev.json
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.dll
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.pdb
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.dll
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.pdb
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.AssemblyInfo.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorAssemblyInfo.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorAssemblyInfo.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.TagHelpers.input.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.TagHelpers.output.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorCoreGenerate.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\Success.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorTargetAssemblyInfo.cs
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.pdb
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.dll
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.pdb
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.genruntimeconfig.cache
+C:\Users\felip\Downloads\ASPNETCore-Parte4-master\depois\Item04\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csproj.CopyComplete
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.deps.json
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.runtimeconfig.json
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.runtimeconfig.dev.json
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.dll
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.pdb
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.dll
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.pdb
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.AssemblyInfo.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorAssemblyInfo.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorAssemblyInfo.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.TagHelpers.input.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.TagHelpers.output.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorCoreGenerate.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\Success.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorTargetAssemblyInfo.cs
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.pdb
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.dll
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.pdb
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.genruntimeconfig.cache
+C:\Users\felip\source\repos\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csproj.CopyComplete
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.deps.json
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.runtimeconfig.json
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.runtimeconfig.dev.json
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.dll
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.dll
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\bin\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.AssemblyInfo.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorAssemblyInfo.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorAssemblyInfo.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.TagHelpers.input.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.TagHelpers.output.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorCoreGenerate.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\Success.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.RazorTargetAssemblyInfo.cs
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.Views.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.dll
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.genruntimeconfig.cache
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\CasaDoCodigo.IdentityServer.csproj.CopyComplete
+C:\Users\felip\Desktop\CURSOS ALURA\AspNetCore-parte4\CasaDoCodigo\CasaDoCodigo.IdentityServer\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
