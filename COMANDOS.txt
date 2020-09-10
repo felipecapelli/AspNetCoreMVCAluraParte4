@@ -21,6 +21,20 @@ Abrir a janela "Immediate Window" com: Ctrl + Alt + i
 Digitar: Request.headers
 
 //--------------------------------------------------------------
+Para utilizar o Identity server no projeto da API, adicionar a biblioteca (no Nuget)
+IdentityServer4.AccessTokenValidation
+
+//--------------------------------------------------------------
+Para utilizar o Identity server como um Cliente no projeto MVC, adicionar a biblioteca (no Nuget)
+IdentityModel
+
+//--------------------------------------------------------------
+Da pra por um break point no projeto da API e fazer os comando abaixo para ver como está chegando o token:
+Abrir a Immediate Window com as teclas: Ctrl + Alt + i
+Digitar: Request.Headers
+vai aparecer uma lista. Para encontrar o Token ir em Authorization
+
+//--------------------------------------------------------------
 ATIVIDEADE EXTRA  - INCLUSÃO DE CLIENTE NO IDENTITYSERVER4
 1-Copiar a classe LoginInputModel - Criando a classe RegisterInputModel (adicionando o atributo Email);
 2-Copiar a classe LoginViewModel - Criando a classe RegisterViewModel;
@@ -35,5 +49,4 @@ ATIVIDEADE EXTRA  - INCLUSÃO DE CLIENTE NO IDENTITYSERVER4
 	nesse mesmo arquivo, modificar, na criação do cliente, a linha que inclui o email no escopo: AllowedScopes = { "openid", "profile", "email", "CasaDoCodigo.Relatorio" };
 	Adicionar no PedidoController (no projeto MVC) a linha a seguir, no método Cadastro: pedido.Cadastro.Email = User.FindFirst("email")?.Value;
 	Por fim, modificar a Startup.Cs do projeto MVC para incluir o email no escopo: options.Scope.Add("email");
-
 

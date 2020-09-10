@@ -64,7 +64,7 @@ namespace CasaDoCodigo.Controllers
                 return RedirectToAction("Carrossel");
             }
 
-            /*var usuario = await userManager.GetUserAsync(this.User);
+            /*var usuario = await userManager.GetUserAsync(this.User);//essa parte foi retirada porque não funciona com openIdConnect, apenas com identity server
 
             pedido.Cadastro.Email = usuario.Email;
             pedido.Cadastro.Telefone = usuario.Telefone;
